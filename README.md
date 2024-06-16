@@ -1,7 +1,7 @@
 # Car-Leasing-Calculator
 Front-end task for interview
 
-This is a car leasing calculator. I made the layout using HTML and CSS. I made media query for the responsiveness of the page. After that I took all elemnts I need for the calculations and extracted them in variables.
+This is a car leasing calculator. I made the layout using HTML and CSS. I made media query for the responsiveness of the page. After that I took all elemnts I need for the calculations and extracted them in js variables.
 I made event listeners for which are fireing on every change. All of the calculations are extracted in calculateLeasingDetails function. 
 I checked the data entered by the user and put a message to be displayed if there are incorrect data so that the user can enter correct data.
 Dekstop view with correct data:
