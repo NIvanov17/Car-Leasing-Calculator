@@ -1,0 +1,52 @@
+@media(width <=895px) {
+    .container {
+        width: 95%;
+        margin: 1em auto
+    }
+
+    .inputs-container {
+        flex-direction: column;
+    }
+
+    #car-type {
+        width: 95%;
+    }
+
+    #lease-period {
+        width: 95%;
+    }
+
+    #car-value {
+        width: 95%;
+    }
+
+    #down-payment {
+        width: 95%;
+    }
+
+    .slider-container {
+        width: 95%;
+    }
+
+    .separator-01 {
+        width: 86%
+    }
+
+    .separator-02 {
+        display: none;
+    }
+
+    .res-container {
+        flex-direction: column;
+        display: flex;
+        width: 85%;
+        justify-content: center;
+        align-items: start;
+        margin-bottom: 1.8em;
+        padding: 0;
+    }
+    .sub-container-01, .sub-container-02 {
+        flex: 1;
+        padding: 0.5em;
+    }
+}
